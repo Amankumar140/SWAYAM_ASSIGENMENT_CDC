@@ -3,7 +3,7 @@
 **Programming Lang :** C++
 
 **Time Complexity :** O()  
-**Space Complexitiy: ** O()
+**Space Complexitiy :** O()
 
 ```cpp
 
