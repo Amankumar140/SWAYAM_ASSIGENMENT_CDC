@@ -1,6 +1,7 @@
 # Removing Minimum and Maximum From Array
-**Programming Lang :** c++ 
-**TC =** O(n) 
+**Programming Lang :** C++
+
+**TC =** O(n)  
 **SC =** O(1) 
 
 ```cpp
