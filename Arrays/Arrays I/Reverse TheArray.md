@@ -1,8 +1,6 @@
 # Problem :-  Reverse The Array
 [Link] (https://www.naukri.com/code360/problems/reverse-the-array_1262298?leftPanelTabValue=PROBLEM)
-TC= o(n-m);
-
-SC=O(1)
+TC= o(n-m)  SC=O(1)
 
 Program  lang :- c++
 ```
