@@ -1,7 +1,5 @@
 # Problem: Reverse The Array
 
-[Link](https://www.naukri.com/code360/problems/reverse-the-array_1262298?leftPanelTabValue=PROBLEM)
-
 **Program Language:** C++
 
 **Time Complexity:** O(n - m)  
