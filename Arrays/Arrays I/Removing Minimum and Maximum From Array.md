@@ -1,11 +1,11 @@
 # Removing Minimum and Maximum From Array
-** Programming Lang : c++ **
-** TC=O(n) **
-**SC = O(1) **
+**Programming Lang :** c++ 
+**TC =** O(n) 
+**SC =** O(1) 
 
 ```cpp
   class Solution {
-public:
+  public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
 
@@ -35,7 +35,5 @@ public:
         return min({left, right, leftRight, rightLeft});
     }
 };
-
-
 
 ```
