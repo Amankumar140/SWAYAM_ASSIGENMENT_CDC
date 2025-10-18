@@ -1,3 +1,10 @@
+#  Sum of array
+
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(n)
+ 
 ```cpp
 // User function template for C++
 class Solution {
