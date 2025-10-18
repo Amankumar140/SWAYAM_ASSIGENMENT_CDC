@@ -1,4 +1,11 @@
+#  Maximum occurring character in a string
 
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(k)
+
+ 
 ```cpp
 char getMaxOccurringChar(string s) {
         // Map to store frequency of characters
