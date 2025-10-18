@@ -1,3 +1,11 @@
+# Template
+
+**Programming Lang :** C++
+
+**Time Complexity :** O(nlogn)  
+**Space Complexitiy :** O(n)
+
+ 
 ```cpp
 vector<int> Smallestonleft(int arr[], int n) {
     // code here
