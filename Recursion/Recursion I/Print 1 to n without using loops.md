@@ -1,5 +1,10 @@
 # Print 1 to n without using loops
+ 
+**Programming Lang :** C++
 
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(n)
+ 
 ```cpp
 class Solution {
   public:
