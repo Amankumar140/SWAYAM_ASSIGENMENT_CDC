@@ -1,4 +1,4 @@
-#  Two Sum
+#  Best Time to Buy and Sell Stock  
 
 **Programming Lang :** C++
 
