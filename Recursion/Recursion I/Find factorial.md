@@ -1,4 +1,10 @@
+#  Find Factorial
 
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(n)
+ 
 
 ```cpp
 int factorial(int n)
