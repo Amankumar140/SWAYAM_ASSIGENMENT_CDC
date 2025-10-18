@@ -1,7 +1,10 @@
 # Fibbonacci Number
 
+**Programming Lang :** C++
 
-
+**Time Complexity :** O(2^n)  
+**Space Complexitiy :** O(n)
+ 
 ```cpp
 // User function Template for C++
 class Solution {
