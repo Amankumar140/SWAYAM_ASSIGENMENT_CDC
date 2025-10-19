@@ -1,4 +1,9 @@
 # Validate Binary Search Tree
+ 
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(h)
 
 ```cpp
 class Solution {
