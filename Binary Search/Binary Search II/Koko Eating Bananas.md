@@ -2,7 +2,7 @@
 
 **Programming Lang :** C++
 
-**Time Complexity :** O(log n)  
+**Time Complexity :** O(n × log(max(piles)))   
 **Space Complexitiy :** O(1)
 
 ```cpp
