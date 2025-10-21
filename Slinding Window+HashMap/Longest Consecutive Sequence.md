@@ -1,3 +1,12 @@
+# Longest Consecutive Sequence
+
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(n)
+
+ 
+
 ```cpp
 class Solution {
 public:
