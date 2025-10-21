@@ -1,3 +1,10 @@
+# Is Binary Tree Heap
+
+**Programming Lang :** C++
+
+**Time Complexity :** O(n)  
+**Space Complexitiy :** O(h)
+ 
 ```cpp
  
 
