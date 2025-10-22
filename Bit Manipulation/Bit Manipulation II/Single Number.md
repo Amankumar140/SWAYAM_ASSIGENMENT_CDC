@@ -8,15 +8,14 @@
 ```cpp
 class Solution {
 public:
-    vector<int> countBits(int n) {
-        vector<int> dp(n + 1, 0);
-        int offset = 1;
-        for (int i = 1; i <= n; i++) {
-            if (i == offset * 2)
-                offset = i;
-            dp[i] = 1 + dp[i - offset];
+    int singleNumber(vector<int>& nums) {
+        int a=0;
+        for(int val:nums)
+        {
+            a^=val;
         }
-        return dp;
+        return a;
+        
     }
 };
 
