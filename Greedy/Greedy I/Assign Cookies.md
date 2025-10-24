@@ -2,7 +2,7 @@
 
 **Programming Lang :** C++
 
-**Time Complexity :** O(O(n log n + m log m))  
+**Time Complexity :** O(n log n + m log m)  
 **Space Complexitiy :** O(1)
 
 ```cpp
